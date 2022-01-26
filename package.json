@@ -2,6 +2,10 @@
   "name": "insomnia-plugin-refresh-iiko-token",
   "version": "0.0.1",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alcovegan/insomnia-plugin-refresh-iiko-token.git"
+  },
   "insomnia": {
     "name": "refresh-iiko-token",
     "displayName": "iiko Access Token Refresh",
