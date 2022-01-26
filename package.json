@@ -1,0 +1,17 @@
+{
+  "name": "insomnia-plugin-refresh-iiko-token",
+  "version": "0.0.1",
+  "private": false,
+  "insomnia": {
+    "name": "refresh-iiko-token",
+    "displayName": "iiko Access Token Refresh",
+    "description": "Plugin for keeping iiko access token always fresh",
+    "publisher": {
+      "name": "Alexander Sharabarov"
+    }
+  },
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
