@@ -10,6 +10,9 @@
     "name": "refresh-iiko-token",
     "displayName": "iiko Access Token Refresh",
     "description": "Plugin for keeping iiko access token always fresh",
+    "images": {
+      "icon": "icon.png"
+    },
     "publisher": {
       "name": "Alexander Sharabarov"
     }
